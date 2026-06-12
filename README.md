@@ -71,7 +71,3 @@ python app.py
 * Biological Donor
 * Government Agency
 * Donation
-
-## Authors
-
-Piyush Sharma
